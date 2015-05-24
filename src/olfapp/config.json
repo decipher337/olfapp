@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "olfapp"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-olfapp-d2818364-1477-47f2-8580-a32628aa92bc;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
